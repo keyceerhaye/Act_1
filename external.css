@@ -10,6 +10,7 @@ body {
     border-radius: 100%;
     width: 200px;
     height: 200px;
+    margin: 5px;
     object-fit: cover;
    }
    
@@ -21,11 +22,11 @@ body {
     height: 100vh;
    }
    
-   .images {
+   .image {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 60px;
+    margin: 30px;
    }
    
